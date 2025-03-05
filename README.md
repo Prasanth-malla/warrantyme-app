@@ -14,8 +14,8 @@ This is a full-stack web application developed as part of the WarrantyMe Full St
 - **Deployment**: Vercel (frontend and backend), GitHub (source code)
 
 ## Deployed Application
-- **Frontend**: [Insert your frontend URL, e.g., `https://warrantyme-frontend.vercel.app`]
-- **Backend**: [Insert your backend URL, e.g., `https://warrantyme-backend.vercel.app`]
+- **Frontend**: https://warrantyme-frontend.vercel.app
+- **Backend**:  https://warrantyme-backend.vercel.app
 - **GitHub Repository**: [https://github.com/Prasanth-malla/warrantyme-app](https://github.com/Prasanth-malla/warrantyme-app)
 
 ## Prerequisites
